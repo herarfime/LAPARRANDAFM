@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "net.sirac.streaming"
+        version   = "1.0.0">
+		
+	
+		
+    <name>La ParrandaFM XHSK</name>
+
+    <description>
+        Aplicacion de streaming de La ParrandaFM XHSK
+    </description>
+
+    <author href="http://www.laparrandafm.com.mx" email="sirac@hotmail.com">
+        Heriberto Arturo Figueroa Medina
+    </author>
+    
+
+
+    <preference name="phonegap-version" value="3.4.0" />
+    <preference name="orientation"      value="portrait" />
+    <preference name="target-device"    value="universal" />
+    <preference name="fullscreen"       value="false" />
+
+    <icon src="icon.png" />
+</widget>
